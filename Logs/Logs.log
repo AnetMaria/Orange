@@ -1,0 +1,56 @@
+[INFO ] 2024-05-21 11:14:07.021 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-21 11:14:08.764 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-21 11:14:11.907 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-21 11:14:14.031 [TestNG-tests-2] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-21 11:14:14.298 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-21 11:14:44.297 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-21 11:14:44.321 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-21 11:14:47.051 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-21 11:14:47.844 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-21 11:15:08.146 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-21 11:15:11.354 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-21 11:15:14.309 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-21 11:15:15.054 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-21 11:15:42.710 [TestNG-tests-1] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-22 12:43:18.834 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 12:43:18.893 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 12:43:19.950 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 12:43:21.751 [TestNG-tests-2] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-22 12:43:21.845 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 12:43:44.259 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 12:43:44.277 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 12:43:46.838 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 12:43:47.484 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 12:44:02.592 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 12:44:08.651 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 12:44:11.702 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 12:44:12.513 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 12:44:34.017 [TestNG-tests-1] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-22 13:01:30.553 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 13:01:30.604 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 13:01:32.513 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 13:01:33.383 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 13:01:33.395 [TestNG-tests-2] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-22 13:01:51.671 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 13:01:51.696 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 13:01:54.117 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 13:01:54.843 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 13:02:06.342 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-22 13:02:08.725 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-22 13:02:11.354 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-22 13:02:12.061 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-22 13:02:29.642 [TestNG-tests-1] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-24 11:28:40.770 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-24 11:28:40.881 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-24 11:28:44.702 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-24 11:28:45.263 [TestNG-tests-2] OrangeHRM - Currently in Home Page
+[INFO ] 2024-05-24 11:28:46.489 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-24 11:29:09.609 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-24 11:29:12.442 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-24 11:29:14.391 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-24 11:29:17.208 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-24 11:29:36.142 [TestNG-tests-1] OrangeHRM - Waiting for webpage to load
+[INFO ] 2024-05-24 11:29:40.321 [TestNG-tests-1] OrangeHRM - Correct title not found
+[WARN ] 2024-05-24 11:29:43.312 [TestNG-tests-1] OrangeHRM - Taking Too much time to load
+[INFO ] 2024-05-24 11:29:43.988 [TestNG-tests-1] OrangeHRM - Invalid Login error Displayed
+[INFO ] 2024-05-24 11:30:16.396 [TestNG-tests-1] OrangeHRM - Currently in Home Page
